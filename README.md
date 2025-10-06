@@ -1,6 +1,6 @@
-# COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
+# COVID-19 Data Repository by the Center of computer Science and data science Engineering (CSD) at st.Johns college of engineering and technology | yemmiganaru | B tech
 
-On March 10, 2023, the Johns Hopkins Coronavirus Resource Center ceased its collecting and reporting of global COVID-19 data. For updated cases, deaths, and vaccine data please visit the following sources:
+On March 10, 2023, st. Johns college Coronavirus Resource Center ceased its collecting and reporting of global COVID-19 data. For updated cases, deaths, and vaccine data please visit the following sources:
 - Global: [World Health Organization (WHO)](https://www.who.int/)
 - U.S.: [U.S. Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 
@@ -365,7 +365,7 @@ https://systems.jhu.edu/research/public-health/ncov/
 
 <b>Contact Us: </b>
 
-* Email: jhusystems@gmail.com
+* Email: varuntej9555@gmail.com
   
   
 
